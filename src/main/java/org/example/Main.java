@@ -8,4 +8,5 @@ public class Main {
         System.out.println("chekhabar");
     }
     Salam
+        System.out.println("Hi Ali, I have managed to get in to your repo, now I want £1m ransom or I kill the frog");
 }
